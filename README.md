@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Indra Company.
+- 🔭 I’m currently working on Jaya Tech.
 - 🌱 I’m currently learning software design.
 - 👯 I’m looking to collaborate on communities and open source projects.
 - 🤔 I’m looking for help with Java, game projects, translation documents to portuguese or revision code.
